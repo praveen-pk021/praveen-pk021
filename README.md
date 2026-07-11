@@ -299,37 +299,7 @@ Dashboard
 
 ---
 
-# 📊 GitHub Dashboard
 
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=praveen-pk021&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveen-pk021&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=praveen-pk021&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=praveen-pk021&theme=tokyonight&row=1&column=6"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
