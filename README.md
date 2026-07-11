@@ -339,4 +339,161 @@ Dashboard
 
 </p>
 
+
+<!-- ====================================================== -->
+<!--                  SHADOW DATA SCIENTIST                 -->
+<!--                     FINAL SECTION                      -->
+<!-- ====================================================== -->
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/praveen-pk021/praveen-pk021/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+# 🌍 Portfolio
+
+<p align="center">
+
+<a href="https://praveenportfolio.pages.dev/">
+
+<img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-00FF9D?style=for-the-badge"/>
+
+</a>
+
+<a href="https://drive.google.com/file/d/16tacJgGrBqFzh3XR802r9-MFDcp2n-nh/view?usp=sharing">
+
+<img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 🏅 Certifications
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IBM-Data%20Analysis-blue?style=for-the-badge&logo=IBM"/>
+
+<img src="https://img.shields.io/badge/Google-Google%20Analytics-success?style=for-the-badge&logo=google"/>
+
+<img src="https://img.shields.io/badge/Forage-GenAI%20Simulation-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prodigy-Data%20Science-green?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ApexPlanet-Data%20Analytics-purple?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+████████████████████░░░░  Machine Learning
+
+█████████████████░░░░░░░  Deep Learning
+
+███████████████████░░░░░  Power BI
+
+████████████████████░░░░  SQL
+
+███████████████░░░░░░░░░  Data Structures
+
+█████████████████░░░░░░░  Statistics
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:praveenkumar2542@gmail.com">
+
+<img src="https://skillicons.dev/icons?i=gmail"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-kumar-a4001a301/">
+
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+</a>
+
+<a href="https://github.com/praveen-pk021">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+</a>
+
+<a href="https://praveenportfolio.pages.dev/">
+
+<img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge"/>
+
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+<p align="center">
+
+<i>
+
+"Turning Data into Intelligence, one project at a time."
+
+</i>
+
+</p>
+
+---
+
+# ❤️ Support
+
+If you like my work,
+
+⭐ Star my repositories
+
+🍴 Fork them
+
+💚 Follow me
+
+---
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,50:8B5CF6,100:00FF9D&section=footer"/>
+
+</p>
+
+<h2 align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</h2>
+
+<h3 align="center">
+
+🚀 Keep Learning • Keep Building • Keep Growing 🚀
+
+</h3>
+
+
 ---
