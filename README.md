@@ -1,118 +1,113 @@
-<!-- ====================================================== -->
-<!--                 SHADOW DATA ANALYST                  -->
-<!-- ====================================================== -->
+<!-- ======================================================= -->
+<!--                  SHADOW DATA SCIENTIST                  -->
+<!-- ======================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FF9D,50:8B5CF6,100:0D1117&text=K.%20PRAVEEN%20KUMAR&fontColor=ffffff&fontSize=45&fontAlignY=38&animation=fadeIn&desc=DATA%20ANALYST%20%7C%20AI%20%7C%20MACHINE%20LEARNING&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,35:8B5CF6,100:00FF9D&text=K.%20PRAVEEN%20KUMAR&fontColor=ffffff&fontSize=48&fontAlignY=38&animation=fadeIn&desc=DATA%20SCIENCE%20•%20DATA%20ANALYTICS%20•%20AI&descAlignY=60"/>
 </p>
 
-<h1 align="center">
-👋 Welcome to my AI Command Center
-</h1>
+<h1 align="center">⚡ Shadow Data Scientist ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00FF9D&center=true&vCenter=true&width=900&lines=Hello+I'm+Praveen+Kumar;Data+Science+Student;Machine+Learning+Enthusiast;Python+Developer;Data+Analytics+Intern;Future+AI+Engineer;Learning+Something+New+Every+Day" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=25&duration=3500&pause=1000&color=00FF9D&center=true&vCenter=true&width=850&lines=Hi+👋+I'm+Praveen+Kumar;Data+Science+Student;Data+Analytics+Intern;Machine+Learning+Enthusiast;Python+Developer;Building+AI+Projects;Turning+Data+Into+Intelligence"/>
 </p>
 
 <p align="center">
 
-<a href="https://praveenportfolio.pages.dev/">
-<img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/>
+<a href="https://praveenportfolio.pages.dev/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
-<a href="https://www.linkedin.com/in/praveen-kumar-a4001a301/">
-<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1tVAb1DuvkqWmEXdowhKQOt1gR_M3zM3S/view?usp=sharing" target="_blank">
+<img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/praveen-kumar-a4001a301/" target="_blank">
+<img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:praveenkumar2542@gmail.com">
-<img src="https://img.shields.io/badge/Email-00FF9D?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-<a href="https://github.com/praveen-pk021">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/📧%20Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=praveen-pk021&label=Visitors&style=for-the-badge&color=00ff99"/>
+<img src="https://komarev.com/ghpvc/?username=praveen-pk021&label=Profile%20Views&color=00FF9D&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/praveen-pk021?label=Followers&style=for-the-badge&color=8B5CF6"/>
+<img src="https://img.shields.io/github/stars/praveen-pk021?affiliations=OWNER&style=for-the-badge&color=FFD700"/>
 </p>
 
 ---
 
-<img align="right" width="370" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<table>
+<tr>
 
-# 💫 About Me
+<td width="55%">
 
-```python
-class Praveen:
+# 👨‍💻 About Me
 
-    education = "B.Tech CSE (Data Science)"
-    university = "CMR University"
+🎓 **B.Tech CSE (Data Science)**  
+📍 CMR University, Bengaluru
 
-    current_roles = [
-        "Data Science Intern @ Prodigy InfoTech",
-        "Data Analytics Intern @ ApexPlanet"
-    ]
+💼 **Data Science Intern**  
+🏢 Prodigy InfoTech
 
-    interests = [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Data Analytics",
-        "Backend Development"
-    ]
+📊 **Data Analytics Intern**  
+🏢 ApexPlanet Software Pvt Ltd
 
-    languages = [
-        "Python",
-        "SQL",
-        "JavaScript"
-    ]
+🌱 **Currently Learning**
 
-    currently_learning = [
-        "Deep Learning",
-        "Power BI",
-        "Statistics",
-        "DSA"
-    ]
+- Machine Learning
+- Deep Learning
+- Power BI
+- Statistics
+- SQL
+- Data Structures
 
-    motto = "Turning Data Into Intelligence"
-```
+🎯 **Career Goal**
+
+Become a Data Scientist and build AI-powered products that solve real-world problems.
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🚀 Current Focus
 
-🌱 Building Resume-worthy Projects
-
-🤖 Learning Machine Learning
+```text
+🧠 Machine Learning
 
 📊 Data Analytics
 
-🐍 Python
-
 📈 Power BI
+
+🐍 Python
 
 💾 SQL
 
-⚡ Open Source
+☁️ Cloud Deployment
 
----
+🤖 AI Applications
 
-# 🌌 Shadow Dashboard
-
-| Status | Value |
-|--------|-------|
-| 🎓 Education | B.Tech Data Science |
-| 💼 Internship | Prodigy InfoTech |
-| 📊 Internship | ApexPlanet |
-| 🌍 Location | Bengaluru, India |
-| 💚 Favorite Language | Python |
-| 🚀 Goal | Become an AI Engineer |
+📚 Data Structures & Algorithms
+```
 
 ---
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praveen-pk021&theme=github_dark"/>
+
+> 💡 *"Turning Data Into Intelligence, one project at a time."*
+
 </p>
 
 ---
@@ -121,129 +116,202 @@ class Praveen:
 <!--                    TECH STACK                          -->
 <!-- ====================================================== -->
 
-# ⚡ Tech Arsenal
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,mysql,sqlite,git,github,vscode,linux,postman&perline=7"/>
+### 💻 Programming Languages
 
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark"/>
 
 ---
 
-## 🧠 Data Science & AI
+### 📊 Data Analytics & Machine Learning
 
-<p align="center">
-
+<p>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+</p>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+---
+
+### 🌐 Backend Development
+
+<img src="https://skillicons.dev/icons?i=flask,mysql,sqlite&theme=dark"/>
+
+---
+
+### ⚙️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 Skills Dashboard
+
+| 💡 Skill | 📈 Level |
+|----------|----------|
+| 🐍 Python | █████████░ 90% |
+| 💾 SQL | ████████░░ 85% |
+| 📊 Power BI | ███████░░░ 75% |
+| 📈 Excel | ████████░░ 85% |
+| 🤖 Machine Learning | ███████░░░ 75% |
+| 📉 Data Analysis | █████████░ 90% |
+| 🌐 Flask | ███████░░░ 75% |
+| ⚡ Git & GitHub | ████████░░ 85% |
+
+---
+
+# 🎯 What I Work With
+
+<div align="center">
+
+| 🧠 AI & ML | 📊 Analytics | 🌐 Development |
+|------------|--------------|----------------|
+| Machine Learning | Power BI | Flask |
+| Scikit-Learn | Excel | REST APIs |
+| Data Cleaning | SQL | SQLite |
+| Model Building | Data Visualization | MySQL |
+| Predictive Analytics | Dashboard Design | Git & GitHub |
+
+</div>
+
+---
+
+# 🚀 Currently Exploring
+
+<div align="center">
+
+🧠 Deep Learning & Neural Networks
+
+📈 Advanced Data Visualization
+
+📊 Statistics for Data Science
+
+☁️ Cloud Deployment
+
+⚡ Data Structures & Algorithms
+
+🤖 AI Applications
+
+</div>
+
+---
+
+<p align="center">
+
+### 💚 "Every dataset tells a story — my job is to uncover it."
 
 </p>
 
 ---
 
-# 💼 Experience
-
-## 🚀 Data Science Intern
-
-### 🏢 Prodigy InfoTech
-
-📅 July 2026 – Present
-
-- 📊 Exploratory Data Analysis
-
-- 🤖 Machine Learning
-
-- 🌳 Decision Tree Models
-
-- 😊 Sentiment Analysis
-
-- 🚗 Traffic Accident Analysis
-
-- 📈 Data Visualization
-
----
-
-## 📊 Data Analytics Intern
-
-### 🏢 ApexPlanet Software Pvt Ltd
-
-📅 July 2026 – Present
-
-- 📈 Data Cleaning
-
-- 📊 Dashboard Creation
-
-- 🐍 Python Analysis
-
-- 💾 SQL
-
-- 📉 Business Insights
-
----
+<!-- ====================================================== -->
+<!--                 FEATURED PROJECTS                      -->
+<!-- ====================================================== -->
 
 # 🚀 Featured Projects
 
 <table>
-
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">💰 Smart Expense Tracker</h3>
+## 💰 Smart Expense Tracker
+
+### 🤖 AI-powered Expense Categorization
+
+An intelligent expense management system that automatically categorizes expenses using Machine Learning and provides monthly insights.
+
+### ⚙️ Tech Stack
+
+🐍 Python
+
+🌐 Flask
+
+💾 MySQL
+
+🤖 Scikit-Learn
+
+📊 Pandas
+
+### ✨ Features
+
+✔ Automatic Expense Categorization
+
+✔ Monthly Reports
+
+✔ PDF Export
+
+✔ CSV Export
+
+✔ Interactive Dashboard
+
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Machine%20Learning-success?style=for-the-badge"/>
+<a href="https://github.com/praveen-pk021/Expense_Tracker">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge"/>
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00FF9D?style=for-the-badge"/>
+</a>
 
 </p>
-
-Automatic Expense Categorization
-
-Monthly Reports
-
-PDF Export
-
-CSV Export
-
-Python + Scikit-learn
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3 align="center">💊 HealTrack</h3>
+## 💊 HealTrack
+
+### Smart Medicine Reminder
+
+A healthcare application that reminds users to take medicines and helps manage prescriptions.
+
+### ⚙️ Tech Stack
+
+🐍 Python
+
+🌐 Flask
+
+💾 SQLite
+
+📱 HTML/CSS
+
+### ✨ Features
+
+✔ Medicine Reminder
+
+✔ Notifications
+
+✔ Medicine Tracking
+
+✔ Schedule Management
+
+✔ User Authentication
+
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-success?style=for-the-badge"/>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SQLite-blue?style=for-the-badge"/>
+<a href="YOUR_LIVE_DEMO">
+<img src="https://img.shields.io/badge/Live-Demo-00FF9D?style=for-the-badge"/>
+</a>
 
 </p>
-
-Medicine Reminder
-
-Notifications
-
-Tracking
-
-Schedule Management
 
 </td>
 
@@ -251,45 +319,89 @@ Schedule Management
 
 <tr>
 
-<td>
+<td width="50%" valign="top">
 
-<h3 align="center">📚 AI Study Planner</h3>
+## 📚 AI Study Planner
+
+### Personalized Learning Assistant
+
+An AI-powered planner that creates study schedules based on priorities and deadlines.
+
+### ⚙️ Tech Stack
+
+🐍 Python
+
+🌐 Flask
+
+📊 SQLite
+
+🤖 AI
+
+### ✨ Features
+
+✔ Personalized Study Plans
+
+✔ Task Prioritization
+
+✔ Daily Planner
+
+✔ Progress Tracking
+
+✔ Smart Scheduling
+
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-black?style=for-the-badge"/>
+<a href="https://github.com/praveen-pk021/AI_Study_Planner">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
-
-Personalized Study Plans
-
-Priority Scheduling
-
-Daily Planner
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-<h3 align="center">📊 Data Analysis Projects</h3>
+## 📊 Data Analytics Projects
+
+### Data Analysis & Visualization
+
+A collection of EDA, dashboards, and visualization projects using Python and Power BI.
+
+### ⚙️ Tech Stack
+
+📊 Power BI
+
+🐍 Python
+
+📈 Pandas
+
+📉 Matplotlib
+
+💾 SQL
+
+### ✨ Features
+
+✔ Exploratory Data Analysis
+
+✔ Interactive Dashboards
+
+✔ Business Insights
+
+✔ Data Cleaning
+
+✔ Visual Reports
+
+<br>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-yellow?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Python-success?style=for-the-badge"/>
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
-
-Titanic Dataset
-
-EDA
-
-Visualizations
-
-Dashboard
 
 </td>
 
@@ -299,167 +411,16 @@ Dashboard
 
 ---
 
+# 🌟 Highlighted Achievements
 
+🏆 **Data Science Intern** — Prodigy InfoTech
 
-# 📈 Contribution Graph
+🏆 **Data Analytics Intern** — ApexPlanet Software Pvt Ltd
 
-<p align="center">
+🏆 **Built AI & Data Analytics Projects**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveen-pk021&theme=react-dark"/>
+🏆 **Portfolio Website Deployed**
 
-</p>
-
-
-<!-- ====================================================== -->
-<!--                  SHADOW DATA SCIENTIST                 -->
-<!--                     FINAL SECTION                      -->
-<!-- ====================================================== -->
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/praveen-pk021/praveen-pk021/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 🌍 Portfolio
-
-<p align="center">
-
-<a href="https://praveenportfolio.pages.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-
-<a href="https://drive.google.com/file/d/1tVAb1DuvkqWmEXdowhKQOt1gR_M3zM3S/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 🏅 Certifications
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/IBM-Data%20Analysis-blue?style=for-the-badge&logo=IBM"/>
-
-<img src="https://img.shields.io/badge/Google-Google%20Analytics-success?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/Forage-GenAI%20Simulation-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prodigy-Data%20Science-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/ApexPlanet-Data%20Analytics-purple?style=for-the-badge"/>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-```text
-████████████████████░░░░  Machine Learning
-
-█████████████████░░░░░░░  Deep Learning
-
-███████████████████░░░░░  Power BI
-
-████████████████████░░░░  SQL
-
-███████████████░░░░░░░░░  Data Structures
-
-█████████████████░░░░░░░  Statistics
-```
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:praveenkumar2542@gmail.com">
-
-<img src="https://skillicons.dev/icons?i=gmail"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/praveen-kumar-a4001a301/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-<a href="https://github.com/praveen-pk021">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-<a href="https://praveenportfolio.pages.dev/">
-
-<img src="https://img.shields.io/badge/Portfolio-00FF9D?style=for-the-badge"/>
-
-</a>
-
-</p>
-
----
-
-# 💬 Quote
-
-<p align="center">
-
-<i>
-
-"Turning Data into Intelligence, one project at a time."
-
-</i>
-
-</p>
-
----
-
-# ❤️ Support
-
-If you like my work,
-
-⭐ Star my repositories
-
-🍴 Fork them
-
-💚 Follow me
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,50:8B5CF6,100:00FF9D&section=footer"/>
-
-</p>
-
-<h2 align="center">
-
-✨ Thanks for visiting my profile ✨
-
-</h2>
-
-<h3 align="center">
-
-🚀 Keep Learning • Keep Building • Keep Growing 🚀
-
-</h3>
-
+🏆 **Actively Learning Machine Learning & Power BI**
 
 ---
