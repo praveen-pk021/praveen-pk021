@@ -365,7 +365,7 @@ Dashboard
 
 </a>
 
-<a href="https://drive.google.com/file/d/16tacJgGrBqFzh3XR802r9-MFDcp2n-nh/view?usp=sharing">
+<a href="[https://drive.google.com/file/d/16tacJgGrBqFzh3XR802r9-MFDcp2n-nh/view?usp=sharing](https://drive.google.com/file/d/1tVAb1DuvkqWmEXdowhKQOt1gR_M3zM3S/view?usp=sharing)">
 
 <img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge"/>
 
