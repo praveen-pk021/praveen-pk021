@@ -359,16 +359,12 @@ Dashboard
 
 <p align="center">
 
-<a href="https://praveenportfolio.pages.dev/">
-
-<img src="https://img.shields.io/badge/🚀%20Visit%20Portfolio-00FF9D?style=for-the-badge"/>
-
+<a href="https://praveenportfolio.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black"/>
 </a>
 
-<a href="[https://drive.google.com/file/d/16tacJgGrBqFzh3XR802r9-MFDcp2n-nh/view?usp=sharing](https://drive.google.com/file/d/1tVAb1DuvkqWmEXdowhKQOt1gR_M3zM3S/view?usp=sharing)">
-
-<img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge"/>
-
+<a href="https://drive.google.com/file/d/1tVAb1DuvkqWmEXdowhKQOt1gR_M3zM3S/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/📄%20Resume-8B5CF6?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
 
 </p>
